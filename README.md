@@ -30,3 +30,8 @@
 ## ![사진](https://github.com/leedongjoon121/Angularjs_study/blob/AnLec1/img/scriptjs.JPG?raw=true)
 
 <br/>
+
+## result
+## ![사진](https://github.com/leedongjoon121/Angularjs_study/blob/AnLec1/img/result.JPG?raw=true)
+
+<br/>
