@@ -31,9 +31,11 @@
 <br/>
 
 ### Result1
+> 해당 todo의 삭제버튼을 누르면 삭제된다.
 ## ![사진](https://github.com/leedongjoon121/Angularjs_study/blob/AnLec2/img/result1.JPG?raw=true)
 
 <br/>
 
 ### Result2
+> Completed(체크된거), Active(체크안된거), All(전체) 에 따라 todo를 보여준다.  
 ## ![사진](https://github.com/leedongjoon121/Angularjs_study/blob/AnLec2/img/result2.JPG?raw=true)
