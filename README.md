@@ -30,4 +30,10 @@
 
 <br/>
 
+### Result1
+## ![사진](https://github.com/leedongjoon121/Angularjs_study/blob/AnLec2/img/result1.JPG?raw=true)
 
+<br/>
+
+### Result2
+## ![사진](https://github.com/leedongjoon121/Angularjs_study/blob/AnLec2/img/result2.JPG?raw=true)
